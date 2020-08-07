@@ -2,7 +2,7 @@
 
 riadiaci systém - Arduino (C++)
 
-Aplikácia pre Android - Mit app inventor
+aplikácia pre Android - Mit app inventor
 
 - komunikácia medzi aplikáciou a systémom
 
